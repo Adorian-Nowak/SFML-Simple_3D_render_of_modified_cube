@@ -6,7 +6,7 @@ Using SFML and OpenGL I made a simple render of rotating modified cube
 
 ## Getting Started
 1. Clone the repository to your local machine.
-2. Copy the necessary SFML DLL files to the same directory as the executable file. These files can be found in the SFML installation directory under the bin folder.
+2. Copy the necessary SFML DLL files to the same directory as the executable file. These files can be downloaded from the official SFML website [here](https://www.sfml-dev.org/download.php).
 3. Run the executable file to see the render.
 
 ## License
