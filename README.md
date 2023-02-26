@@ -10,7 +10,7 @@ Using SFML and OpenGL I made a simple render of rotating modified cube
 3. Run the executable file to see the render.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 - The SFML library
